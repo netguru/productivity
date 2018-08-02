@@ -4,10 +4,15 @@ Our favourite communication tool! :)
 
 ## Starring messages and automating it
 
+TODO
 
 ## Optimizing the UI
 
+TODO
+
 ## Disabling notifications
+
+TODO
 
 ## Using shortcuts
 
@@ -22,3 +27,5 @@ Treat them as stop&go places. As soon as you're done with your business, just
 leave the channel. They will invite you back if you're needed.
 
 ## Starring people and channels
+
+TODO
