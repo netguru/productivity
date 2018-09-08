@@ -65,5 +65,5 @@ The common case is that you need to write a summary of some kind every week or h
 
 [1]:	http://www.paulgraham.com/makersschedule.html
 
-[image-1]:	assets/sample-calendar.jpeg "Sample Calendar"
-[image-2]:	assets/working-hours.jpeg "working hours feature in Google Calendar"
+[image-1]:	/assets/sample-calendar.jpeg "Sample Calendar"
+[image-2]:	/assets/working-hours.jpeg "working hours feature in Google Calendar"
