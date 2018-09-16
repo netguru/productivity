@@ -1,3 +1,22 @@
-site_name: Effective Achiever
+site_name: Productivity
+site_url: https://productivity.netguru.co
+
+# Theme
 theme:
   name: material
+  language: en
+  logo:
+    icon: trending_up
+  palette:
+    primary: green
+    accent: deep orange
+
+# Repository
+repo_name: netguru/productivity
+repo_url: https://github.com/netguru/productivity
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
