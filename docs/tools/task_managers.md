@@ -12,8 +12,9 @@ You can think about it like this:
 There are a few tools worth mentioning:
 
 * OmniFocus
+  * If you're looking for some inspiration regarding custom perspectives, take a look at the following site: https://learnomnifocus.com/perspectives/
 * Things
 * Todoist
 * Trello
 * Jira
-* Google Keeps
+* Google Keep
