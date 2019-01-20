@@ -1,78 +1,104 @@
-Mindset
-If something bothers you - get rid of that
-We tend to ignore things that bother us. We should act instead and remove these things from our environment so our brain doesn’t have to exclude it.
+# Sleep
 
-Twitter people
+This documnet is in vast majority coppied from the original link below as well as it is a summary of the last chapter of the "Why we sleep" Book.
+🔗 [https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/]
++ I bullet out some additional tips from myself :)
 
-Too much noise
-Not-relevant content
-Slack channels
+Belos is the Amazon linke to the book which I have actually read :)
+🔗 https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0141983760/ref=sr_1_1?ie=UTF8&qid=1548002552&sr=8-1&keywords=why+we+sleep (available as autdiobook and kindle edition too)
 
-You’re not needed anymore
-Too much noise
-Subscriptions
+Have a good read and sleep well!
 
-Not relevant anymore
-Don’t archive, unsubscribe instead!
-Automate
-Even if you’re not programmer - you can still automate a lot of things. You can find a few platforms below - they might be used to connect dozens of diffrent apps with each other and use the combinations which would never be possible out of the box.
+Thanks.
+Adam Palaczyk
 
-IFTTT
-Zapier
-Examples
-Star in Gmail -> Task in Jira
-Trello due date added to a card —> Add an event in a calendar
-Calendar meeting in progress -> Set Slack status to "Busy"
-New response from a Google Form —> Add selected details to another’s team spreadsheet
-Someone visited our page for the 50th time -> Send them an email with a link to our career page and invitation for a hangout
-Read more
-We live in a beautiful times - we have access to so many great people, their thinking, experiences and lessons. If you want to focus or research something - you just get a book and lear about the topic.
+## Why we sleep?
 
-A good idea is to read multiple books at once:
+Matthew Walker’s book; "Why We Sleep" was a game changer for me. Whilst I’d known for a long time that sleep was important; the extent to which was unclear. Matthew puts it succinctly when he says “There is not one process in the human body, (that we’re aware of) that isn’t improved by sleep”. Indeed, the International Agency for Research on Cancer (part of the WHO), concluded in 2007 that night shift work is a probable human carcinogen
 
-one which requires a lot of your attention (like technical books)
-one which is outside of your domain but can broaden your perspective
-one for entertainment
-Depending on your state - you just pick one book from the pile above and you’re good to go!
+Sleep loss is linked to the acceleration of a plethora of common issues, including:
 
-Ask questions
-Use other people experience to achieve your own goals - there’s no better way of choosing an optimal path or learn about the obstacles other than asking people who’ve walked this path already.
+* Cancer
+* Diabetes & Weight Gain
+* Heart Disease
+* Poor fertility
+* Weakened immune system
+* DNA damage
 
-Observe other people setups and workflows
-As we work together with other people, no matter if in person, or remotely - we often see how our colleagues work, what are they clicking, how does their web/terminal look like, how do they jump between tasks/apps, what apps do they use.
+But what is adequate? 8 hours (of actual slepp and not "in bed time") appears to be the minimum we should strive for. Apparently there’s a tiny % of people with DNA mutations that allow them to function well below 8 hours; but it’s a minority.
 
-Combine what you see with questions and you can improve your environment a lot!
+## Matthew’s Tips for Good Sleep
 
-Have a growth mindset
-According to researcher Carol Dweck, there are two types of mindsets: a fixed mindset and a growth mindset.
+Below I’ll summarise Matthew’s 12 key tips for good sleep:
 
-In a fixed mindset, people believe their qualities are fixed traits and therefore cannot change. These people document their intelligence and talents rather than working to develop and improve them. They also believe that talent alone leads to success, and effort is not required.
+### 1. Stick to a sleep schedule
 
-Alternatively, in a growth mindset, people have an underlying belief that their learning and intelligence can grow with time and experience. When people believe they can get smarter, they realise that their effort has an effect on their success, so they put in extra time, leading to higher achievement.
+We should aim to go to bed and wake up at the same time each day. People generally have a hard time adjusting to changes in sleep patterns. Unfortunately sleeping late on weekends doesn’t make up for poor sleep during the week. If necessary, set an alarm for bedtime. Matthew emphasizes this is the #1 priority from the list; stick to a regular sleep schedule.
 
-🔗 https://www.developgoodhabits.com/fixed-mindset-vs-growth-mindset/
+### 2. Don’t exercise too late in the day
 
-Always put the ball in someone else's hands
-When there’s a task that involves multiple people, try to finish your part as soon as possible. You’ll be able to move the responsibility to someone else and give your brain some additional resources to consume in some other way.
+Exercise is great, and we should try to exercise at least 30 minutes on most days. But try to time it no later than 2-3 hours before bed.
 
-Use mentions where possible and be precise
-Mentions are used for directly pinging someone, or letting them know that they should read about something. It’s very easy for us to miss out some information, because there’s plenty of information around us in all the places.
+### 3. Avoid caffeine & nicotine
 
-When to use mentions?
-If you will someone should read something
-If someone should respond to you
-If you want someone’s attention
-There is a lot of places where you can use mentions:
+Colas, coffee, teas (that aren’t herbal) and chocolate contain caffeine, which is a stimulant. Even consuming these in the afternoon can have an affect on your sleep. Nicotine is also a mild stimulant, and smokers will often wake up earlier than they would otherwise, due to nicotine withdrawal.
 
-Slack, along with group mentions
-Jira
-Google Docs
-Gmail
-Github, along with team mentions
-Set your 3 top priorities in the morning
-You can tweak your brain to focus on what’s important by doing a simple job - write down (digitally or on paper) your 3 priorities for the day - starting from the most critical one.
+* If you are somewhat addicted to coffee like I used to be. Try to stay away from it after 2pm.
 
-The goal is to do at least the first thing, your brain will help you by doing this exercise.
+### 4. Avoid alcoholic drinks before bed
 
-Be lean about your work
-Remove things you shouldn’t do in the first place.
+The presence of alcohol in the body can reduce your REM (Rapid Eye Movement) sleep, keeping you in the lighter stages of sleep.
+
+* It is ideal to stay away from alcohol all together. However it seems the ideal day for alcoholic drink consumption (if needed) to be Friday or Saturday to give you this extra day of good sleep before you start your work-week.
+
+### 5. Avoid large meals and beverages late at night
+
+A lights snack before bed is okay, but a heavy meal can cause digestive issues, which interfers with sleep. Drinking too many fluids can cause freuqent awakenings to urinate.
+
+### 6. Where possible, avoid medicines that delay or disrupt your sleep
+
+Some commonly prescribed heart, blood pressure or asthma medications, as well as some over the counter and herbal medicines for coughs colds or allergies can disrupt sleep patterns. If you have trouble sleeping, it may be worth speaking to your doctor or pharmacist to see if any of the drugs you’re taking may be contributing to this. It may be possible to take them earlier in the day.
+
+### 7. Don’t nap after 3pm
+
+Naps are great, but taking them too late in the day can make it hard to fall asleep at night.
+
+* I found naps to be perfect during the day (specially weekends) in this form
+  ** Power nap - 20 mins
+  ** Recovery nap - 45 mins
+  ** 1 Sleep cycle - 120 mins
+  
+* It seems much easier to wake up and get up the speed from a shorter nap. Last thing you want to do is to interrupt your full night sleep because you naped too long or too late during the day. 
+  
+
+### 8. Make sure to leave time to relax before bed
+
+It’s important to have time before bed to unwind. Try to schedule your days so that there is time to relax before bed.
+
+* Unplug yourself (no ipdads, FaceBook, late laptop use) at least 30 mins before bed time
+* There is no harm to read a fiction book while in bed 30 mins before desired sleep time
+* It is a good time to listen an audiobook while in bed with your eyes closed or mediate for a difference
+
+### 9. Take a hot bath before bed
+
+The drop in body temperature after a bath may help you to feel sleepy, and the bath can help you to slow down and relax before bed.
+
+### 10. Have a dark, cool (in temperature), gadget free bedroom
+
+We sleep better at night if the temperature in the room is kept on the cool side. Gadgets such as mobile phones and computers can be a distraction. A comfortable mattress and pillow can set you up for a good sleep. Those with insomnia will often watch the clock, turn it away from view so you don’t have to worry about the time while trying to sleep. Use these tips to optimize your sleeping space.
+
+* Darken your room as much as possible (up to the pitch black point)
+* Use sleep mask and ear plugs if you feel like it
+* Freshen the air in your bedroom (ideal with a dedicated air freshing device)
+* More sophisticated bed cooling devices include ChiliPad™ Cube mattress pad and ambient noise generators
+* The only gadgets that are welcomed in your bedroom are the ones that help you measure your sleep quality
+  ** Sleep measuring wearables (i.e. Watches)
+  ** Phone apps like "Sleep Cycle" and "SleepWatch"
+
+### 11. Get the right sunlight exposure
+
+Sun exposure during the day helps us to regulate sleeping patterns. Try to get outside in the natural sunlight for at least 30 minutes per day.
+
+### 12. Don’t stay in bed if you (really) can’t sleep
+
+If you find yourself still in bed for more than 20 minutes, or you’re starting to get anxious in bed, get up and do something else until you feel sleepy. Anxiety whilst trying to sleep can make it harder to fall asleep.
