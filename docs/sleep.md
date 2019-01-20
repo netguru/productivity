@@ -1,10 +1,13 @@
 # Sleep
 
 This documnet is in vast majority coppied from the original link below as well as it is a summary of the last chapter of the "Why we sleep" Book.
+
 🔗 [https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/]
+
 + I bullet out some additional tips from myself :)
 
 Below is the Amazon link to the book which I have actually read :)
+
 🔗 https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0141983760/ref=sr_1_1?ie=UTF8&qid=1548002552&sr=8-1&keywords=why+we+sleep (available as audiobook and kindle edition too)
 
 Have a good read and sleep well!
@@ -65,9 +68,9 @@ Some commonly prescribed heart, blood pressure or asthma medications, as well as
 Naps are great, but taking them too late in the day can make it hard to fall asleep at night.
 
 * I found naps to be perfect during the day (specially weekends) in this form
-  * Power nap - 20 mins
-  * Recovery nap - 45 mins
-  * 1 Sleep cycle - 120 mins
+ * Power nap - 20 mins
+ * Recovery nap - 45 mins
+ * 1 Sleep cycle - 120 mins
   
 * It seems much easier to wake up and get up the speed from a shorter nap. Last thing you want to do is to interrupt your full night sleep because you naped too long or too late during the day. 
   
@@ -93,8 +96,8 @@ We sleep better at night if the temperature in the room is kept on the cool side
 * Freshen the air in your bedroom (ideal with a dedicated air freshing device)
 * More sophisticated bed cooling devices include ChiliPad™ Cube mattress pad and ambient noise generators
 * The only gadgets that are welcomed in your bedroom are the ones that help you measure your sleep quality
-  * Sleep measuring wearables (i.e. Watches)
-  * Phone apps like "Sleep Cycle" and "SleepWatch"
+ * Sleep measuring wearables (i.e. Watches)
+ * Phone apps like "Sleep Cycle" and "SleepWatch"
 
 ### 11. Get the right sunlight exposure
 
