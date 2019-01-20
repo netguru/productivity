@@ -4,12 +4,13 @@ This documnet is in vast majority coppied from the original link below as well a
 🔗 [https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/]
 + I bullet out some additional tips from myself :)
 
-Below is the Amazon linke to the book which I have actually read :)
-🔗 https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0141983760/ref=sr_1_1?ie=UTF8&qid=1548002552&sr=8-1&keywords=why+we+sleep (available as autdiobook and kindle edition too)
+Below is the Amazon link to the book which I have actually read :)
+🔗 https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0141983760/ref=sr_1_1?ie=UTF8&qid=1548002552&sr=8-1&keywords=why+we+sleep (available as audiobook and kindle edition too)
 
 Have a good read and sleep well!
 
 Thanks.
+
 Adam Palaczyk
 
 ## Why we sleep?
