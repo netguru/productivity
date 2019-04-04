@@ -33,7 +33,7 @@ Even if you’re not programmer - you can still automate a lot of things. You ca
 
 ## Read more
 
-We live in a beautiful times - we have access to so many great people, their thinking, experiences and lessons. If you want to focus or research something - you just get a book and lear about the topic.
+We live in a beautiful times - we have access to so many great people, their thinking, experiences and lessons. If you want to focus or research something - you just get a book and learn about the topic.
 
 A good idea is to read multiple books at once:
 
