@@ -25,7 +25,7 @@ As you can see - the project itself might sound like a big thing, but each of th
 
 ## Inbox
 
-Have a place where you capture ideas and tasks as they occur to you. The way you put things in the inbox should be simple and always available. You want to get things our of your brain as fast as possible.
+Have a place where you capture ideas and tasks as they occur to you. The way you put things in the inbox should be simple and always available. You want to get things out of your brain as fast as possible.
 
 Some examples:
 
