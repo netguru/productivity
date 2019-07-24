@@ -6,5 +6,5 @@ services:
       - "8000:8000"
     volumes:
       - .:/docs
-    stdin_open: true
-    tty: true
+    stdin_open: true # Keep STDIN open even if not attached
+    tty: true # Allocate a pseudo-tty
