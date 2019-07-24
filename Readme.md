@@ -8,6 +8,18 @@ A documentation-like site about productivity: tips, tricks and guides which will
 
 You can contribute to this repository by opening a Pull Request. All contributions are greatly appreciated!
 
+### With Docker
+
+It should be fairly trivial, clone the repo first and then run:
+
+```
+docker-compose up
+```
+
+Go to http://localhost:8000 and all of the changes should be visible.
+
+### Without docker
+
 If you want to see your change locally, install `mkdocs` first (https://www.mkdocs.org/#installation), than use `mkdocs serve` command to get a preview of the site.
 
 ## Deployment
