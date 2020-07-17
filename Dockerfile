@@ -1,7 +1,7 @@
-FROM python:3-alpine
+FROM cimg/python:3.8
 
-RUN pip install --upgrade pip \
-  && pip install mkdocs mkdocs-material
+COPY requirements.txt  .
+RUN pip install -r requirements.txt
 
 WORKDIR /docs
 
