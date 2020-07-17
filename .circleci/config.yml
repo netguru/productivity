@@ -1,22 +1,28 @@
-version: 2
+version: 2.1
+
+orbs:
+  python: circleci/python@0.3.2
 
 jobs:
   build:
-    docker:
-      - image: cimg/python:3.8
+    executor: python/default
     steps:
       - checkout
-      - run: pip install -r requirements.txt
+      - python/load-cache
+      - python/install-deps
+      - python/save-cache
       - run: mkdocs build --clean
+      - persist_to_workspace:
+          root: ~/project
+          paths:
+            - site
 
   deploy:
-    docker:
-      - image: cimg/python:3.8
+    executor: python/default
     steps:
-      - checkout
+      - attach_workspace:
+          at: ~/project
       - run: pip install awscli
-      - run: pip install -r requirements.txt
-      - run: mkdocs build --clean
       # Sync and delete any old files from the S3 bucket.
       - run: aws s3 sync site/ s3://$AWS_S3_BUCKET --acl public-read --cache-control "max-age=86400" --exclude "*.py*" --delete
       # Allow `awscli` to make requests to CloudFront.
