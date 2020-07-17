@@ -6,10 +6,8 @@ jobs:
       - image: circleci/python:2
     steps:
       - checkout
-      - run: 'sudo pip install mkdocs'
-      - run: 'sudo pip install mkdocs-material'
-      - run: 'sudo pip install pymdown-extensions'
       - run: 'mkdocs build --clean'
+      - run: pip install -r requirements.txt
 
   deploy:
     docker:
@@ -17,9 +15,8 @@ jobs:
     steps:
       - checkout
       - run: 'sudo pip install awscli'
-      - run: 'sudo pip install mkdocs'
-      - run: 'sudo pip install mkdocs-material'
       - run: 'mkdocs build --clean'
+      - run: pip install -r requirements.txt
       # Sync and delete any old files from the S3 bucket.
       - run: 'aws s3 sync site/ s3://$AWS_S3_BUCKET --acl public-read --cache-control "max-age=86400" --exclude "*.py*" --delete'
       # Allow `awscli` to make requests to CloudFront.
