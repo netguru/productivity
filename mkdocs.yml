@@ -5,8 +5,8 @@ site_url: https://productivity.netguru.com
 theme:
   name: material
   language: en
-  logo:
-    icon: trending_up
+  icon:
+    logo: material/trending-up
   palette:
     primary: green
     accent: deep orange
