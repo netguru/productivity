@@ -13,6 +13,12 @@ inspiration on this site and your life is going to be at least 1% easier!
 >
 > John Wooden, Hall of Fame College Basketball Coach
 
+&nbsp;
+
+> _Great things are done by a series of small things brought together._
+
+> Vincent Van Gogh
+
 ## Why is this 1% so important?
 
 There's an excellent article about it, [you can read it here][1],
