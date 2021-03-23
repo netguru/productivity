@@ -22,11 +22,11 @@ inspiration on this site and your life is going to be at least 1% easier!
 ## Why is this 1% so important?
 
 There's an excellent article about it, [you can read it here][1],
-but let's summarize it with only one picture:
+but let's summarize it with only two pictures:
 
-![Marginal gains][image-1]
+<div align="center"><img src="assets/marginal-gains.jpg" /></div>
+<br/>
+<div align="center"><img src="assets/image.png" /></div>
 
 [1]:	https://jamesclear.com/marginal-gains
 [2]:	https://github.com/netguru/productivity
-
-[image-1]:	assets/marginal-gains.jpg
