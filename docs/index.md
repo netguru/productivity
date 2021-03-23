@@ -26,7 +26,7 @@ but let's summarize it with only two pictures:
 
 <div align="center"><img src="assets/marginal-gains.jpg" /></div>
 <br/>
-<div align="center"><img src="assets/image.png" /></div>
+<div align="center"><img src="assets/compare-doing-no-doing.png" /></div>
 
 [1]:	https://jamesclear.com/marginal-gains
 [2]:	https://github.com/netguru/productivity
