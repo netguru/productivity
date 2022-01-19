@@ -1,6 +1,6 @@
 # Sleep
 
-This documnet is in vast majority coppied from the original link below as well as it is a summary of the last chapter of the "Why we sleep" Book.
+This document is in vast majority copied from the original link below as well as it is a summary of the last chapter of the "Why we sleep" Book.
 
 🔗 [https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/] [1]
 
@@ -31,7 +31,7 @@ Sleep loss is linked to the acceleration of a plethora of common issues, includi
 * Weakened immune system
 * DNA damage
 
-But what is adequate? 8 hours (of actual slepp and not "in bed time") appears to be the minimum we should strive for. Apparently there’s a tiny % of people with DNA mutations that allow them to function well below 8 hours; but it’s a minority.
+But what is adequate? 8 hours (of actual sleep and not "in bed time") appears to be the minimum we should strive for. Apparently there’s a tiny % of people with DNA mutations that allow them to function well below 8 hours; but it’s a minority.
 
 ## Matthew’s Tips for Good Sleep
 
@@ -59,7 +59,7 @@ The presence of alcohol in the body can reduce your REM (Rapid Eye Movement) sle
 
 ### 5. Avoid large meals and beverages late at night
 
-A lights snack before bed is okay, but a heavy meal can cause digestive issues, which interfers with sleep. Drinking too many fluids can cause freuqent awakenings to urinate.
+A lights snack before bed is okay, but a heavy meal can cause digestive issues, which interfere with sleep. Drinking too many fluids can cause frequent awakenings to urinate.
 
 ### 6. Where possible, avoid medicines that delay or disrupt your sleep
 
@@ -73,17 +73,17 @@ Naps are great, but taking them too late in the day can make it hard to fall asl
 	* Power nap - 20 mins
 	* Recovery nap - 45 mins
 	* 1 Sleep cycle - 120 mins
-  
-* It seems much easier to wake up and get up the speed from a shorter nap. Last thing you want to do is to interrupt your full night sleep because you naped too long or too late during the day. 
-  
+
+* It seems much easier to wake up and get up the speed from a shorter nap. Last thing you want to do is to interrupt your full night sleep because you naped too long or too late during the day.
+
 
 ### 8. Make sure to leave time to relax before bed
 
 It’s important to have time before bed to unwind. Try to schedule your days so that there is time to relax before bed.
 
-* Unplug yourself (no ipdads, FaceBook, late laptop use) at least 30 mins before bed time
+* Unplug yourself (no iPads, Facebook, late laptop use) at least 30 mins before bed time
 * There is no harm to read a fiction book while in bed 30 mins before desired sleep time
-* It is a good time to listen an audiobook while in bed with your eyes closed or mediate for a difference
+* It is a good time to listen an audiobook while in bed with your eyes closed or meditate for a difference
 
 ### 9. Take a hot bath before bed
 
@@ -95,7 +95,7 @@ We sleep better at night if the temperature in the room is kept on the cool side
 
 * Darken your room as much as possible (up to the pitch black point)
 * Use sleep mask and ear plugs if you feel like it
-* Freshen the air in your bedroom (ideal with a dedicated air freshing device)
+* Freshen the air in your bedroom (ideal with a dedicated air freshener device)
 * More sophisticated bed cooling devices include ChiliPad™ Cube mattress pad and ambient noise generators
 * The only gadgets that are welcomed in your bedroom are the ones that help you measure your sleep quality
 	* Sleep measuring wearables (i.e. Watches)
@@ -111,4 +111,3 @@ If you find yourself still in bed for more than 20 minutes, or you’re starting
 
 [1]:	https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/
 [2]:	https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0141983760/ref=sr_1_1?ie=UTF8&qid=1548002552&sr=8-1&keywords=why+we+sleep
-
